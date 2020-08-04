@@ -7,9 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Activity_Demo_1" />
+        <module name="Act_Grou_6" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Act_Grou_6" target="1.7" />
+      <module name="Acticiti_ACT_ID_6" target="1.7" />
       <module name="Activity_Demo_1" target="1.7" />
     </bytecodeTargetLevel>
   </component>
